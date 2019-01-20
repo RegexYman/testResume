@@ -1,2 +1,0 @@
-# testResume
-Created with CodeSandbox
